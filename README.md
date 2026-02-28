@@ -42,6 +42,7 @@ Ensured correct numeric formatting
 The cleaned dataset was then loaded into Power BI for modeling and analysis.
 
 📊 Data Modeling & DAX
+
 🔹 Calculated Columns
 
 Total Screen Time (Weekday + Weekend Usage)
